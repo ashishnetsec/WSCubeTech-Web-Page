@@ -17,6 +17,9 @@ header {
   width: 100%;
   z-index: 1;
   background-color: white;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  padding-top: 10px;
+  padding-bottom: 20px;
 }
 .header-container {
   width: 1513px;
@@ -76,6 +79,11 @@ header {
 .top-section-left {
  
   width: 50%;
+}
+.dm-bg-class{
+  background-image: url('../images/Vector\ 63.png');
+  background-repeat: no-repeat;
+  background-position: bottom;
 }
 .top-section-right {
   width: 50%;
